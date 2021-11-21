@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/Sora233/DDBOT"
-	_ "github.com/Sora233/DDBOT/_example/concern"
+	_ "github.com/Sora233/ddbot-example/concern"
 )
 
 func main() {
