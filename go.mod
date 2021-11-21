@@ -1,4 +1,4 @@
-module github.com/Sora233/ddbot-example
+module github.com/Sora233/DDBOT-example
 
 go 1.16
 
