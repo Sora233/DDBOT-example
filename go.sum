@@ -24,8 +24,8 @@ github.com/Mrs4s/MiraiGo v0.0.0-20211114170854-511e8c41edd2/go.mod h1:UOO08UBb5m
 github.com/OneOfOne/xxhash v1.2.2/go.mod h1:HSdplMjZKSmBqAxg5vPj2TmRDmfkzw+cTzAElWljhcU=
 github.com/PuerkitoBio/goquery v1.8.0 h1:PJTF7AmFCFKk1N6V6jmKfrNH9tV5pNE6lZMkG0gta/U=
 github.com/PuerkitoBio/goquery v1.8.0/go.mod h1:ypIiRMtY7COPGk+I/YbZLbxsxn9g5ejnI2HSMtkjZvI=
-github.com/Sora233/DDBOT v1.0.1-0.20211121160316-3fce7a22c765 h1:LcaHM0I6rdCGO0F0bekozSxSxcmAu8oCC7Rduk+FAUU=
-github.com/Sora233/DDBOT v1.0.1-0.20211121160316-3fce7a22c765/go.mod h1:I4y3lMxncoyNlksaM5pWmi1C3vYJShFZmnv45Wll7rg=
+github.com/Sora233/DDBOT v1.0.1 h1:Ynxe89NO0D7DM2kccEOC7qeIq9nmjtUWuEd/M+hFzJg=
+github.com/Sora233/DDBOT v1.0.1/go.mod h1:I4y3lMxncoyNlksaM5pWmi1C3vYJShFZmnv45Wll7rg=
 github.com/Sora233/MiraiGo-Template v0.0.0-20211119083153-e8b7a8dc8f32 h1:6JYNccglMr3pRRK0vRLFL3scXhrnt2K6UPhP/Epjo4I=
 github.com/Sora233/MiraiGo-Template v0.0.0-20211119083153-e8b7a8dc8f32/go.mod h1:KDWuzgAut/UyFQ9FE4ebXYyGas8dPG1EzmonRhMvEaA=
 github.com/Sora233/sliceutil v0.0.0-20210120043858-459badd8d882 h1:WXXRCSYXZsFd3ETkh+imU6Gz/Xdm0lXgAQILgBau0XY=
